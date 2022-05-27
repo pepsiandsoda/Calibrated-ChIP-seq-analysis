@@ -5,4 +5,6 @@ The jupyter notebook shows examples plots made using chromosomes I and III for 0
 
 The files containing positions and other information for chromosome features that are needed to run the script are included.
 
-To install dependencies run pip install -r requirements.txt
+To install dependencies run 
+
+pip install -r requirements.txt
